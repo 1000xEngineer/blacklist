@@ -11,6 +11,11 @@ Blacklist is an uBO filter list that removes annoying banners on certain sites.
 5. Add [this URL](https://raw.githubusercontent.com/1000xEngineer/blacklist/master/blacklist.txt)
 6. Hit "Apply changes"
 
+# Contributing
+
+Pull requests are welcome. Keep the filters simple. +js filters will only be allowed with a
+good reason.
+
 # License
 
 &copy; 2020 The 1000x DevOps Engineer. This repository is licensed under GPL3.
