@@ -1,0 +1,12 @@
+# Kubernetes
+kubernetes.io##.main-section.announcement.content
+kubernetes.io###announcement:style(padding-top: 55px !important)
+
+# Carbon
+carbon.now.sh##.toast:has-text(s Matter)
+
+# Android Developer website
+developer.android.com##.devsite-banner-announcement.devsite-banner
+
+# Golang
+golang.org##.Header-banner
