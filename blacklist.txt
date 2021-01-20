@@ -18,4 +18,4 @@ xstate.js.org##.blm-callout
 nodejs.org##.home-blacklivesmatterblock
 
 # koajs
-koajs.org##div:has-text(s Matter)
+koajs.com##div:has-text(s Matter)
