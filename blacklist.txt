@@ -19,3 +19,7 @@ nodejs.org##.home-blacklivesmatterblock
 
 # koajs
 koajs.com##div:has-text(s Matter)
+
+# Moment.js
+momentjs.com##.hero-title
+momentjs.com###donate
